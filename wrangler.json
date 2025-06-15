@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "backendsaas",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3d53a5ae-8ce8-4c1b-92ed-dce2079b0b60",
+      "database_name": "bd_saas"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
